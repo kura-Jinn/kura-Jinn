@@ -7,7 +7,6 @@ Ik bouw graag dingen die saai werk makkelijker maken. Met een achtergrond in pro
 
 Momenteel werk ik aan een **admin-app voor trainers** — van het uitpluizen van de juiste features tot het bouwen van een eerste werkende MVP. Daarnaast duik ik volop in full stack development en AI-workflows.
 
-Naast het scherm vind je me waarschijnlijk in de keuken om nieuwe cocktails te testen (net als bij code luistert de verhouding daar redelijk nauw 🍸).
 
 ---
 
@@ -31,7 +30,7 @@ Naast het scherm vind je me waarschijnlijk in de keuken om nieuwe cocktails te t
 ### 📈 Activiteit
 
 <p align="left">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=JOUW-GEBRUIKERSNAAM&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img height="155" src=[["https://github-readme-stats.vercel.app/api?username=JOUW-GEBRUIKERSNAAM](https://www.pinterest.com/pin/1021261653033571006/)](&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOUW-GEBRUIKERSNAAM&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
