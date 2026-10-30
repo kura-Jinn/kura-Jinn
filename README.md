@@ -30,7 +30,7 @@ Momenteel werk ik aan een **admin-app voor trainers** — van het uitpluizen van
 ### 📈 Activiteit
 
 <p align="left">
-  <img height="155" src=[["https://github-readme-stats.vercel.app/api?username=JOUW-GEBRUIKERSNAAM](https://www.pinterest.com/pin/1021261653033571006/)](&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img height="155" src=[(https://www.pinterest.com/pin/1021261653033571006/)]&(show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOUW-GEBRUIKERSNAAM&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -40,7 +40,7 @@ Momenteel werk ik aan een **admin-app voor trainers** — van het uitpluizen van
 
 Altijd in voor een goed gesprek over automatisering, kleine open-source projecten of nieuwe kansen als developer.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/JOUW-LINKEDIN](https://www.linkedin.com/in/timothy-maree-7a3035288/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-maree-7a3035288/))
 [![E-mail](https://img.shields.io/badge/E--mail-222222?style=flat-square&logo=gmail&logoColor=white)](mareetimothy@gmail.com)
 ![Status](https://img.shields.io/badge/Open_voor_kansen-Ja-10b981?style=flat-square)
 ### `~/timothy`
