@@ -41,8 +41,8 @@ Naast het scherm vind je me waarschijnlijk in de keuken om nieuwe cocktails te t
 
 Altijd in voor een goed gesprek over automatisering, kleine open-source projecten of nieuwe kansen als developer.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JOUW-LINKEDIN)
-[![E-mail](https://img.shields.io/badge/E--mail-222222?style=flat-square&logo=gmail&logoColor=white)](mailto:JOUW@EMAIL.BE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/JOUW-LINKEDIN](https://www.linkedin.com/in/timothy-maree-7a3035288/))
+[![E-mail](https://img.shields.io/badge/E--mail-222222?style=flat-square&logo=gmail&logoColor=white)](mareetimothy@gmail.com)
 ![Status](https://img.shields.io/badge/Open_voor_kansen-Ja-10b981?style=flat-square)
 ### `~/timothy`
 
