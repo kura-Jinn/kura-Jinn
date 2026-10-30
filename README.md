@@ -53,9 +53,9 @@ Door mijn achtergrond in projectadministratie begrijp ik niet alleen hoe je code
 ### 📈 Activiteit
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JOUW-GEBRUIKERSNAAM&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOUW-GEBRUIKERSNAAM&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  
   <img height="160" src="https://i.pinimg.com/736x/63/20/97/632097365a2f868e0945f6334a2ceba9.jpg" alt="Kiwi the coding cat" />
+  <img height="160" src=https://www.pinterest.com/pin/709105903857859129/ />
 </p>
 
 ---
